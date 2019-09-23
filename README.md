@@ -1,6 +1,6 @@
 #### **Agile Software Development and DevOps**
 ---
-###### Yashodhan Singh  
+###### Yashodhan Singh
 ###### Monday, September 23rd, 2019  
 ---  
 
